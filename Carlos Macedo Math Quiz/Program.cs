@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Math_Quiz
+namespace Carlos_Macedo_Math_Quiz
 {
     static class Program
     {

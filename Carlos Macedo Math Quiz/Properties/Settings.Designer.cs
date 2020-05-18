@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Math_Quiz.Properties
+namespace Carlos_Macedo_Math_Quiz.Properties
 {
 
 
