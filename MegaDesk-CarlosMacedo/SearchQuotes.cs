@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Carlos_Macedo_Math_Quiz
+namespace MegaDesk_CarlosMacedo
 {
-    public partial class Form1 : Form
+    public partial class SearchQuotes : Form
     {
-        public Form1()
+        public SearchQuotes()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
