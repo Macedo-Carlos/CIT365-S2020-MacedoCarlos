@@ -19,7 +19,12 @@ namespace Carlos_Macedo_Math_Quiz
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
+        }
 
+        private void btnClick(object sender, EventArgs e)
+        {
+            MessageBox.Show(textIdentificativo.Text);
         }
     }
 }

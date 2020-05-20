@@ -16,5 +16,10 @@ namespace MegaDesk_CarlosMacedo
         {
             InitializeComponent();
         }
+
+        private void SubmitOrder_Click(object sender, EventArgs e)
+        {
+            //How to pass objects between two forms
+        }
     }
 }

@@ -24,7 +24,8 @@ namespace MegaDesk_CarlosMacedo
 
         private void ExitButton_Click(object sender, EventArgs e)
         {
-
+            //Close the Main Menu form
+            Close();
         }
 
         private void AddQuoteButton_Click(object sender, EventArgs e)
