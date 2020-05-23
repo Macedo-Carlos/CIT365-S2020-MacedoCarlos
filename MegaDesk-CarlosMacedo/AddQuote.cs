@@ -21,5 +21,10 @@ namespace MegaDesk_CarlosMacedo
         {
             //How to pass objects between two forms
         }
+
+        private void AddQuote_Validated(object sender, EventArgs e)
+        {
+
+        }
     }
 }

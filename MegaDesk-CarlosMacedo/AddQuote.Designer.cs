@@ -150,7 +150,6 @@
             this.SubmitOrder.TabIndex = 12;
             this.SubmitOrder.Text = "Submit Order";
             this.SubmitOrder.UseVisualStyleBackColor = true;
-            this.SubmitOrder.Click += new System.EventHandler(this.SubmitOrder_Click);
             // 
             // AddQuote
             // 
@@ -172,6 +171,7 @@
             this.Controls.Add(this.label1);
             this.Name = "AddQuote";
             this.Text = "AddQuote";
+            this.Validated += new System.EventHandler(this.AddQuote_Validated);
             this.ResumeLayout(false);
             this.PerformLayout();
 
