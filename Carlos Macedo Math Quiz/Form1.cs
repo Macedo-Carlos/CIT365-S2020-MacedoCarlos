@@ -113,6 +113,7 @@ namespace Carlos_Macedo_Math_Quiz
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            Console.WriteLine("Starting application");
             DateTime dateToDisplay = DateTime.Today;
             dateLabel.Text = String.Format("{0:d MMMM yyyy}", dateToDisplay);
         }
